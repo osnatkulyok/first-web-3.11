@@ -1,0 +1,66 @@
+body{
+    background-image: url("./images/background.jpg");
+}
+table{
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-left: 4%;
+    width: 55%;
+    border-color: aqua;
+}
+a{
+    text-decoration: none;
+}
+#titles{
+    background-color: #afec53;
+}
+#school{
+    text-align: center;
+    background-color: aqua;
+}
+.location_img{
+    filter: drop-shadow(5px 5px 5px #222);
+    width: 10%;
+    height: 10%;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.img{
+    text-align: center;
+    margin: 2px 2px 2px 2px             ;
+    width: 75px;
+    height: 20px;
+}
+.partition{
+    text-align: center;
+    margin-top: 0.5%;
+    width: 55px;
+    height: 10px;
+}
+#high_school{
+    text-align: center;
+    background-color: #afec53;
+}
+#button{
+    margin-top: 5%;
+    margin-left: 4%;
+    width: 60px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
